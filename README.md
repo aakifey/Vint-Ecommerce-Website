@@ -13,7 +13,7 @@ A modern and responsive e-commerce website built with **HTML, CSS, and JavaScrip
 ## How to Use
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/Vint-Ecommerce-Website.git
+   git clone https://github.com/aakifey/Vint-Ecommerce-Website.git
    ```
 2. Open `index.html` in your browser.  
 
